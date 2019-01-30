@@ -1,0 +1,16 @@
+{
+    "name": "joinive/laravel-avatar",
+    "description": "laravel avatar generater",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sw",
+            "email": "siversonw@126.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
